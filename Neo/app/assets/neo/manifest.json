@@ -1,0 +1,17 @@
+{
+  "NEO_IMG_BASIS": "neo-basis.webp",
+  "NEO_IMG_START": "neo-start.webp",
+  "NEO_IMG_HIGHFIVE": "neo-highfive.webp",
+  "NEO_IMG_SPORT": "neo-sport.webp",
+  "NEO_IMG_IDLE": "neo-idle.webp",
+  "NEO_IMG_CELEBRATE": "neo-celebrate.webp",
+  "NEO_IMG_COACH2": "neo-coach2.webp",
+  "NEO_IMG_FOOTBALL": "neo-football.webp",
+  "NEO_IMG_TENNIS": "neo-tennis.webp",
+  "NEO_IMG_MUSIC": "neo-music.webp",
+  "NEO_IMG_THINK2": "neo-think2.webp",
+  "NEO_IMG_SUCCESS2": "neo-success2.webp",
+  "NEO_IMG_REFLECT2": "neo-reflect2.webp",
+  "NEO_IMG_RUNNING": "neo-running.webp",
+  "NEO_IMG_DANCE": "neo-dance.webp"
+}
